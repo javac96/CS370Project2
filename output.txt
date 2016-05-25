@@ -1,0 +1,80 @@
+http://www.computerhope.com/jargon/w/webpage.htm:
+Content Type: text/html; charset=utf-8
+  Content Length: 12910
+  Last Modified: Fri Sep 18 05:09:44 EDT 2015
+  Expiration: 0
+  Content Encoding: null
+Content Saved to File: url_1.txt , Lines:155
+
+http://www.w3.org/TR/WD-html40-970708/htmlweb.html:
+Content Type: text/html; charset=utf-8
+  Content Length: 9465
+  Last Modified: Tue Jul 08 08:32:25 EDT 1997
+  Expiration: 1447503638000
+  Content Encoding: null
+Content Saved to File: url_2.txt , Lines:213
+
+http://kly.no/varnish/regex.txt:
+Content Type: text/plain
+  Content Length: 2369
+  Last Modified: Wed Sep 02 02:46:22 EDT 2015
+  Expiration: 0
+  Content Encoding: null
+Content Saved to File: url_3.txt , Lines:78
+
+http://ecx.images-amazon.com/images/I/51oXyW8WQwL._SX387_BO1,204,203,200_.jpg:
+Content Type: image/jpeg
+  Content Length: 34789
+  Last Modified: Tue Mar 03 12:29:23 EST 2015
+  Expiration: 2000000000000
+  Content Encoding: null
+Content Saved to File: url_4.jpg
+
+https://courses.physics.illinois.edu/phys406/lecture_notes/p406pom_lecture_notes/p406pom_lect5.pdf:
+Content Type: application/pdf
+  Content Length: 2593155
+  Last Modified: Fri May 15 11:49:41 EDT 2015
+  Expiration: 0
+  Content Encoding: null
+Content Saved to File: url_5.pdf
+
+http://www.computerhope.com/jargon/w/webpage.htm:
+Content Type: text/html; charset=utf-8
+  Content Length: 12910
+  Last Modified: Fri Sep 18 05:09:44 EDT 2015
+  Expiration: 0
+  Content Encoding: null
+Content Saved to File: url_1.txt , Lines:155
+
+http://www.w3.org/TR/WD-html40-970708/htmlweb.html:
+Content Type: text/html; charset=utf-8
+  Content Length: 9465
+  Last Modified: Tue Jul 08 08:32:25 EDT 1997
+  Expiration: 1447504284000
+  Content Encoding: null
+Content Saved to File: url_2.txt , Lines:213
+
+http://kly.no/varnish/regex.txt:
+Content Type: text/plain
+  Content Length: 2369
+  Last Modified: Wed Sep 02 02:46:22 EDT 2015
+  Expiration: 0
+  Content Encoding: null
+Content Saved to File: url_3.txt , Lines:78
+
+http://ecx.images-amazon.com/images/I/51oXyW8WQwL._SX387_BO1,204,203,200_.jpg:
+Content Type: image/jpeg
+  Content Length: 34789
+  Last Modified: Tue Mar 03 12:29:23 EST 2015
+  Expiration: 2000000000000
+  Content Encoding: null
+Content Saved to File: url_4.jpg
+
+https://courses.physics.illinois.edu/phys406/lecture_notes/p406pom_lecture_notes/p406pom_lect5.pdf:
+Content Type: application/pdf
+  Content Length: 2593155
+  Last Modified: Fri May 15 11:49:41 EDT 2015
+  Expiration: 0
+  Content Encoding: null
+Content Saved to File: url_5.pdf
+
